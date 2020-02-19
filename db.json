@@ -1,0 +1,20 @@
+{
+  "profiles":[
+    {
+      "uniquecode": "3435ev",
+      "emailidentifier": "kb2232@nyu.edu",
+      "nameidentifier": "OlaKunle Babatunde",
+      "phoneidentifier": "5164067205",
+      "addressidentifier": "2071 E 61st street",
+      "birthdateidentifier": "1988-12-89"
+    },
+    {
+      "uniquecode": "3435ev",
+      "emailidentifier": "kbabatunde2@aol.com",
+      "nameidentifier": "Israel Babatunde",
+      "phoneidentifier": "5164067205",
+      "addressidentifier": "961 42nd St",
+      "birthdateidentifier": "2020-11-12"
+    }
+  ]
+}
